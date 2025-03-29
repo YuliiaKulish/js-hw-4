@@ -22,7 +22,7 @@ This repository contains solutions to JavaScript homework assignments related to
 - Доки зміна кольору активна, кнопка "Start" має бути неактивною.
 - Використовує функцію `getRandomHexColor()` для генерації кольору.
 
-📁 **Файл:** [`01-color-switcher.js`](./src/js/01-color-switcher.js)
+📁 **Файл:** [`01-color-switcher.js`](src/js/01-color-switcher.js)
 
 ---
 
@@ -35,7 +35,7 @@ This repository contains solutions to JavaScript homework assignments related to
 - Таймер автоматично зупиняється при досягненні нуля.
 - Використовує функцію `convertMs()` для розрахунку часу.
 
-📁 **Файл:** [`02-timer.html`](./src/js/02-timer.html)
+📁 **Файл:** [`02-timer.html`](src/js/02-timer.html)
 
 ---
 
@@ -46,7 +46,7 @@ This repository contains solutions to JavaScript homework assignments related to
 - Кожен проміс має певну затримку та випадково виконується або відхиляється.
 - Використовує бібліотеку `notiflix` для відображення повідомлень про виконання або відхилення промісів.
 
-📁 **Файл:** [`03-promises.html`](./src/js/03-promises.html)
+📁 **Файл:** [`03-promises.html`](src/js/03-promises.html)
 
 ---
 
